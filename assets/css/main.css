@@ -1,0 +1,11 @@
+.Pizza img {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.Pizza h3 {
+    color: #4f4cdf;
+    font-size: 20px;
+
+}
